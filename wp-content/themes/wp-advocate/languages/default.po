@@ -1,0 +1,841 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Advocate\n"
+"POT-Creation-Date: 2014-02-27 18:47+0800\n"
+"PO-Revision-Date: 2014-02-27 18:47+0800\n"
+"Last-Translator: ed cardinal <lizardking67@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress\\wp-content\\themes\\wp-"
+"advocate\n"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/404.php:9
+msgid "Error 404 - Page Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/404.php:15
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching, or one of the links below, can help."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/404.php:21
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/search.php:49
+msgid "Most Used Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/404.php:29
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/search.php:57
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/archive.php:13
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/archive.php:15
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/archive.php:17
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/archive.php:19
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:107
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/sidebar-alt.php:38
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/sidebar-page.php:38
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/sidebar.php:38
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/archive.php:50
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/author.php:58
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/category.php:47
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/index.php:34
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/search.php:37
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/tag.php:50
+msgid "Nothing Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/archive.php:54
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/author.php:62
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/category.php:51
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/index.php:38
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/people-post-type-main.php:81
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/tag.php:54
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/author.php:20
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/category.php:11
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/comments.php:9
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/comments.php:42
+msgid "Comment navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/comments.php:43
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/comments.php:55
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-aside.php:19
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-audio.php:26
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-gallery.php:59
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-link.php:30
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-quote.php:19
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-status.php:19
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-aside.php:20
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-audio.php:27
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-gallery.php:70
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-image.php:15
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-intro.php:18
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-link.php:31
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-page.php:11
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-quote.php:20
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-single-people.php:47
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-single.php:15
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-status.php:20
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-video.php:18
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content.php:29
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/image.php:77
+msgid "Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-aside.php:28
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-quote.php:28
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-status.php:28
+msgid "Leave a comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-aside.php:28
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-quote.php:28
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-status.php:28
+msgid "1 Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-aside.php:28
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-quote.php:28
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-status.php:28
+msgid "% Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-aside.php:30
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-audio.php:56
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-gallery.php:101
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-image.php:43
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-link.php:60
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-page.php:12
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-quote.php:30
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-single.php:43
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-status.php:30
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-video.php:46
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content.php:56
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/image.php:26
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/image.php:91
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-audio.php:35
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-audio.php:46
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-gallery.php:80
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-gallery.php:91
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-image.php:22
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-image.php:33
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-link.php:39
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-link.php:50
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-single.php:22
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-single.php:33
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-video.php:25
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-video.php:36
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content.php:36
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content.php:47
+msgid ", "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-audio.php:39
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-gallery.php:84
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-image.php:26
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-link.php:43
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-single.php:26
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-video.php:29
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content.php:40
+#, php-format
+msgid "<span class=\"meta-cat\"></span> %1$s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-audio.php:50
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-gallery.php:95
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-image.php:37
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-link.php:54
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-single.php:37
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-video.php:40
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content.php:51
+#, php-format
+msgid "<span class=\"meta-tag\"></span> %1$s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-single-people.php:58
+msgid "LinkedIn"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-single-people.php:62
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/header.php:41
+msgid "Twitter"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-single-people.php:66
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/header.php:37
+msgid "Facebook"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-single-people.php:70
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/header.php:81
+msgid "Avvo"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/content-single-people.php:74
+msgid "Mailto"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/footer.php:11
+msgid "&copy; "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/footer.php:13
+msgid "- Powered by "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/footer.php:13
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/footer.php:13
+msgid "WordPress."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/footer.php:14
+msgid " Theme by "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/footer.php:14
+msgid "http://wpdevshed.com/"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/footer.php:14
+msgid "WP Dev Shed"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:33
+msgid "Primary Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:34
+msgid "Footer Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:104
+msgid "Category"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:105
+msgid "Tag"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:106
+msgid "Author"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:112
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:116
+msgid "Page "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:142
+msgid "Site Logo"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:144
+msgid "Upload a logo to replace the default site name in the header"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:152
+msgid ""
+"Choose your logo (ideal width is 100-300px and ideal height is 40-100px)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:164
+msgid "Link Color Option"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:172
+msgid "Social Media Icons"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:174
+msgid "Optional social media buttons in the header"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:182
+msgid "Enter your Facebook url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:193
+msgid "Enter your Twitter url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:204
+msgid "Enter your Google+ url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:215
+msgid "Enter your Pinterest url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:226
+msgid "Enter your Linkedin url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:237
+msgid "Enter your Youtube url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:248
+msgid "Enter your Tumblr url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:259
+msgid "Enter your Instagram url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:270
+msgid "Enter your Flickr url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:281
+msgid "Enter your Vimeo url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:292
+msgid "Enter your Yelp url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:303
+msgid "Enter your Avvo url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:314
+msgid "Enter your RSS url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:325
+msgid "Enter your Mailto url"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:333
+msgid "Disable Intro Text Background"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:335
+msgid ""
+"Option to disable the semi transparent background for the Intro Text on the "
+"Alt Homepage and People Post Type main page template."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:344
+msgid "Disable the background?"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:352
+msgid "Slider Options"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:354
+msgid "Adjust the behavior of the background image slider on Alt_Homepage."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:362
+msgid "Animation Speed in Seconds"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:372
+msgid "Time Out (Interval) in Seconds"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:475
+msgid "Blog Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:484
+msgid "Page Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:493
+msgid "Alt_Homepage Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:512
+msgid "Post navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:522
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:526
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:548
+msgid "Pingback:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:548
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:567
+msgid "(Edit)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:558
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:565
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:574
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:596
+#, php-format
+msgid ""
+"<span class=\"sep meta-on\">Posted on </span><a href=\"%1$s\" title=\"%2$s\" "
+"rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></"
+"a><span class=\"byline\"> <span class=\"sep meta-by\">by</span> <span class="
+"\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel="
+"\"author\">%7$s</a></span></span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:602
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:690
+msgid "&lsaquo; Prev"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:691
+msgid "Next &rsaquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:706
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/sidebar-alt.php:29
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/sidebar-alt.php:56
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/sidebar-page.php:29
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/sidebar-page.php:56
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/sidebar.php:29
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/sidebar.php:56
+msgid "Untitled"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:873
+msgid "Install Recommended Plugins"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:874
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:146
+msgid "Install Plugins"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:875
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:147
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:876
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:887
+msgid "Return to Recommended Plugins Installer"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:888
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:160
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1546
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/functions.php:889
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/header.php:45
+msgid "Google+"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/header.php:49
+msgid "Pinterest"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/header.php:53
+msgid "Linkedin"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/header.php:57
+msgid "Youtube"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/header.php:61
+msgid "Tumblr"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/header.php:65
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/header.php:69
+msgid "Instagram"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/header.php:73
+msgid "Vimeo"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/header.php:77
+msgid "Yelp"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/header.php:85
+msgid "RSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/header.php:89
+msgid "mailto:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/header.php:89
+msgid "Email"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/header.php:98
+msgid "Main menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/header.php:99
+msgid "Skip to content"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/image.php:16
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s"
+"\">%2$s</abbr></span> at <a href=\"%3$s\" title=\"Link to full-size image\">"
+"%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel="
+"\"gallery\">%7$s</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/image.php:83
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/image.php:85
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/image.php:87
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/image.php:89
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/image.php:102
+msgid "&larr; Previous Image"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/image.php:103
+msgid "Next Image &rarr;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:145
+msgid "Install Required Plugins"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:148
+msgid "Something went wrong."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:159
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:414
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:161
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:438
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1720
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:462
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:601
+msgid "Dismiss this notice"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:918
+msgid "External Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:923
+msgid "Private Repository"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:926
+msgid "Pre-Packaged"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:930
+msgid "WordPress Repository"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:932
+msgid "Required"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:932
+msgid "Recommended"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:934
+msgid "Not Installed"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:936
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1084
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1097
+msgid "Plugin"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1098
+msgid "Source"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1099
+msgid "Type"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1100
+msgid "Status"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1114
+msgid "Install"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1115
+msgid "Activate"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1532
+msgid "Install package not available."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1533
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1534
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1535
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1536
+msgid "Plugin install failed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1537
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1545
+msgid "Plugin activation failed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1636
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1637
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1637
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1646
+msgid "Show Details"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1637
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1646
+msgid "Hide Details"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1638
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1639
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1643
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1644
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1645
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1646
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1647
+msgid "All installations have been completed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/library/class/class-tgm-plugin-activation.php:1648
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/people-post-type-main.php:77
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/people-post-type-main.php:92
+msgid "No People Found!"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/people-post-type-main.php:96
+msgid ""
+"Please make sure that the WP advocate People CPT Plugin is installed and "
+"activated."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/search.php:14
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/search.php:41
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/search.php:44
+msgid "Or you can try these links below."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/sidebar-alt.php:11
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/sidebar-page.php:11
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/sidebar.php:11
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/sidebar-alt.php:21
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/sidebar-page.php:21
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/sidebar.php:21
+msgid "Latest Posts"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/sidebar-alt.php:45
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/sidebar-page.php:45
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/sidebar.php:45
+msgid "Popular Posts"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\wp-advocate/tag.php:11
+#, php-format
+msgid "Tag: %s"
+msgstr ""

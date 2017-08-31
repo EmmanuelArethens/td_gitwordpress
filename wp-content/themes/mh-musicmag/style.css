@@ -1,0 +1,167 @@
+/*****
+Theme Name: MH MusicMag
+Theme URI: https://www.mhthemes.com/themes/mh/musicmag/
+Description: MH MusicMag is a beautiful dark magazine theme ideal for topics like heavy metal, grunge, punk or other music related content. With this child theme for MH Magazine lite you can publish latest news about bands, newcomers, gigs, music events or other content related to the entertainment industry. This music blog & magazine theme comes with a dark color scheme and strong typography to put your content in spotlight. You can have the same design and layout with the premium version of MH Magazine (without the need of a child theme) which can be configured by making use of the flexible layout options. MH Magazine offers additional widget areas, multiple unique custom widgets, great features and extended layout options to manage several layout elements on your site including changing the color scheme and typography.
+Author: MH Themes
+Author URI: https://www.mhthemes.com/
+Template: mh-magazine-lite
+Version: 1.0.1
+Tags: one-column, two-columns, left-sidebar, right-sidebar, flexible-header, custom-header, custom-menu, featured-images, full-width-template, theme-options, threaded-comments, translation-ready, rtl-language-support, footer-widgets, blog, entertainment, news
+Text Domain: mh-musicmag
+Domain Path: /languages/
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*****/
+
+/***** Structure *****/
+
+.mh-wrapper { background: #000; }
+
+/***** Border Colors *****/
+
+.mh-header-tagline, .entry-meta, .mh-author-box, .mh-author-box-avatar, .mh-post-nav, .mh-comment-body, .mh-loop-description, .mh-loop-item, .mh-tab-post-item, .mh-box, .mh-custom-posts-item, .mh-posts-large-item, #mh-mobile .mh-posts-focus-item, .widget_recent_entries li, .recentcomments, .widget_archive li, .widget_categories li, .widget_pages li a, .widget_meta li, .widget_nav_menu .menu > li, .widget_rss li, .mh-comment-gravatar .avatar, .mh-ping-list .mh-ping-item, .mh-ping-list .mh-ping-item:first-child, table, td, th, pre, code { border-color: #052f3b; border-color: rgba(255, 255, 255, 0.3); }
+
+/***** Typography *****/
+
+body { font-family: "Hind", sans-serif; color: #fff; background: #161616; }
+h1, h2, h3, h4, h5, h6, .mh-custom-posts-small-title { font-family: "Marcellus SC", serif; color: #fff; }
+pre, code, kbd { color: #fff; background: #104442; }
+blockquote { color: #fff; border-color: #205855; }
+a { color: #fff; }
+a:hover { color: #658a78; }
+
+/***** Header *****/
+
+.mh-header { background: #000; }
+.mh-header-tagline { color: #205855; }
+
+/***** Navigation *****/
+
+.mh-main-nav-wrap { background: #052f3b; }
+.mh-main-nav { background: #052f3b; border-bottom: none; }
+.mh-main-nav li:hover { background: #205855; }
+.mh-main-nav ul li:hover > ul { background: #052f3b; }
+.mh-main-nav .menu > .current-menu-item { background: none; }
+.mh-main-nav .menu > .current-menu-item:hover { background: #205855; }
+
+/***** SlickNav Custom Style *****/
+
+.slicknav_btn { background: #205855; }
+.slicknav_menu { border-color: #052f3b; background: #205855; }
+.slicknav_nav ul { border-color: #052f3b; }
+.slicknav_nav .slicknav_item:hover, .slicknav_nav a:hover { background: #205855; }
+.mh-main-nav-wrap .slicknav_btn, .mh-main-nav-wrap .slicknav_menu, .mh-main-nav-wrap .slicknav_nav .slicknav_item:hover, .mh-main-nav-wrap .slicknav_nav a:hover { background: transparent; }
+.mh-main-nav-wrap .slicknav_nav ul { border-color: #205855; }
+.mh-main-nav-wrap .slicknav_nav ul ul { border: none; }
+
+/***** Posts/Pages *****/
+
+.page-title { color: #fff; }
+.mh-meta, .mh-meta a { color: #fff; }
+.entry-content a, .entry-content a:hover, .mh-meta a:hover { color: #658a78; }
+.entry-tags li { background: #052f3b; }
+.entry-tags li:hover, .entry-tags .fa { background: #205855; }
+
+/***** Pagination *****/
+
+.page-numbers, a .pagelink { color: #fff; background: #104442; }
+.page-numbers:hover, .mh-loop-pagination .current, .mh-comments-pagination .current, a:hover .pagelink, .pagelink { background: #205855; }
+
+/***** Footer *****/
+
+.mh-footer { background: #052f3b; }
+.mh-footer a, .mh-footer .mh-meta, .mh-footer .mh-meta a, .mh-footer .mh-meta a:hover { color: #fff; }
+.mh-copyright-wrap { border-color: rgba(255, 255, 255, 0.3); background: #052f3b; }
+.mh-copyright, .mh-copyright a { color: #fff; }
+
+/***** Images / Video *****/
+
+.wp-caption-text { color: #fff; }
+
+/***** Gallery *****/
+
+.gallery-caption { color: #fff; }
+
+/***** Comments *****/
+
+.mh-comment-meta, .mh-comment-meta a { color: #fff; }
+.bypostauthor .mh-comment-meta-author:after, .mh-comment-meta-links .comment-reply-link:before, #respond #cancel-comment-reply-link:before, .required { color: #205855; }
+
+/***** Forms *****/
+
+input[type=text]:hover, input[type=email]:hover, input[type=tel]:hover, input[type=url]:hover, textarea:hover { border-color: #205855; }
+input[type=submit] { background: #205855; }
+input[type=submit]:hover { background: #052f3b; }
+
+/***** Searchform *****/
+
+.mh-widget .search-form { background: #104442; }
+
+/***** Multisite Registration Form *****/
+
+#signup-content { background: #2b2b2b; }
+
+/***** Widgets *****/
+
+.mh-widget-title-inner { display: inline-block; font-size: 14px; font-size: 0.875rem; font-weight: 700; color: #fff; padding: 10px 15px; background: #205855; }
+.mh-widget-title-inner a { color: #fff; }
+.mh-widget-title { padding: 0; border-bottom: none; background: #205855; background: rgba(32, 88, 85, 0.6); }
+.mh-footer-widget-title { background: #205855; }
+
+/***** Widgets Areas (Advertising) *****/
+
+.mh-ad-spot, .mh-info-spot { background: #104442; }
+
+/***** MH Slider Widget *****/
+
+.mh-slider-widget img { width: 100%; display: block; }
+.mh-slider-caption { width: auto; top: auto; bottom: 25px; right: 25px; left: 25px; border: none; background: #052f3b; background: rgba(5, 47, 59, 0.8); }
+.mh-widget-col-1 .mh-slider-caption { right: 0; left: 0; border-bottom: 3px solid #205855; background: #052f3b; }
+.mh-widget-col-2 .mh-slider-caption { bottom: 15px; right: 15px; left: 15px; }
+.mh-footer-widget .mh-slider-caption { bottom: auto; background: rgba(255, 255, 255, 0.1); }
+.mh-slider-widget .flex-control-nav { width: auto; top: 20px; right: 15px; bottom: auto; }
+.mh-slider-widget .flex-control-paging li a { width: 20px; height: 20px; background: #fff; border: none; -webkit-border-radius: 0; -moz-border-radius: 0; -o-border-radius: 0; border-radius: 0; }
+.mh-slider-widget .flex-control-paging li a:hover { background: #f5f5f5; }
+.mh-slider-widget .flex-control-paging li a.flex-active { background: #205855; border: none; }
+.mh-widget-col-1 .flex-control-nav, .mh-widget-col-2 .flex-control-nav { top: 15px; right: 10px; }
+
+/***** MH Posts Stacked Widget *****/
+
+.mh-posts-stacked-title { background: #052f3b; background: rgba(5, 47, 59, 0.8); }
+.mh-posts-stacked-meta { background: #205855; }
+#mh-mobile .mh-posts-stacked-overlay-small, #mh-mobile .mh-footer-widget .mh-posts-stacked-overlay { border-color: #052f3b; }
+
+/***** MH Tabbed Widget *****/
+
+.mh-tabbed-widget, .mh-tabbed-widget a { color: #fff; }
+.mh-tabbed-widget a:hover { color: #205855; }
+.mh-tabbed-widget .tagcloud a { color: #fff; }
+.mh-tab-buttons { border-bottom: 3px solid #205855; }
+.mh-tab-button, .mh-tab-content { background: #104442; }
+.mh-tab-button.active, .mh-tab-button.active:hover { color: #fff; background: #205855; }
+.mh-tab-comment-excerpt { background: rgba(255, 255, 255, 0.6); }
+.mh-footer-widget .mh-tabbed-widget, .mh-footer-widget .mh-tabbed-widget a { color: #fff; }
+.mh-footer-widget .mh-tab-button.active { background: #205855; }
+.mh-footer-widget .mh-tab-comment-excerpt { background: #052f3b; }
+
+/***** WP Calendar Widget *****/
+
+#wp-calendar caption { background: #104442; }
+
+/***** WP Tag Cloud Widget *****/
+
+.mh-widget .tagcloud a, .mh-footer-widget .tagcloud a { background: #052f3b; }
+.tagcloud a:hover, .mh-widget .tagcloud a:hover, .mh-footer-widget .tagcloud a:hover { background: #205855; }
+
+/***** Media Queries *****/
+
+@media screen and (max-width: 900px) {
+	#mh-mobile .mh-slider-caption { right: 0; left: 0; border-bottom: 3px solid #205855; background: #052f3b; background: rgba(5, 47, 59, 1); }
+	#mh-mobile .mh-footer-widget .mh-slider-caption { background: rgba(255, 255, 255, 0.1); }
+}
+@media screen and (max-width: 767px) {
+	.mh-header { border-color: rgba(255, 255, 255, 0.3); }
+}
+@media only screen and (max-width: 420px) {
+	.mh-copyright-wrap { padding: 15px 20px; }
+}
